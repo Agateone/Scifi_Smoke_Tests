@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Popbitch Chrome 3">
+  <test  name="Smoke Tests" >
+   <parameter name="browser" value="chrome" />
+    <classes>
+<class name="Stepdef.Popbitch.POPSMO21_Read_Updates_On_Date_Wallet_Back"/>
+   	<class name="Stepdef.Popbitch.POPSMO22_Free_Point_Updates_On_Date_Wallet_Back"/>
+   	<class name="Stepdef.Popbitch.POPSMO23_Auto_Charge_Button_Back_Wallet_Off"/>
+   	<class name="Stepdef.Popbitch.POPSMO24_Auto_Charge_Button_Back_Wallet_On"/>
+   	<class name="Stepdef.Popbitch.POPSMO25_First_Use_Notice_Displayed"/>
+   	</classes>
+   	</test> 
+  </suite>

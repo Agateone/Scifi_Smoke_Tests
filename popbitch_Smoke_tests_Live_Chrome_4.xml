@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Popbitch Chrome 4">
+  <test  name="Smoke Tests" >
+   <parameter name="browser" value="chrome" />
+    <classes>
+	<class name="Stepdef.Popbitch.POPSMO26_Popbitch_Free_Period_From_Finish_Notice"/>
+   	<class name="Stepdef.Popbitch.POPSMO27_Popbitch_Free_Period_From_Authoirse_Charge_Notice"/>
+   	<class name="Stepdef.Popbitch.POPSMO28_Free_period_from_new_publication_notice"/>
+   	<class name="Stepdef.Popbitch.POPSMO29_Free_period_on_2_publications"/>
+   	<class name="Stepdef.Popbitch.POPSMO30_Login_From_First_Use_Notice"/>
+   	<class name="Stepdef.Popbitch.POPSMO31_Login_From_Wallet"/>
+   		</classes>
+   	</test> 
+  </suite>
