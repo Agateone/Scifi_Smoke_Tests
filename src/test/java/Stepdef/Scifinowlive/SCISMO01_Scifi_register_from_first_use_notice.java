@@ -95,7 +95,7 @@ public class SCISMO01_Scifi_register_from_first_use_notice {
 	@Test(priority=5)
 	public void navigated_to_the_same_article() throws Throwable {
 	    String actual_url= driver.getCurrentUrl();
-	    String expected_url = "https://www.thecricketer.com/Topics/premimum_features/englishman_in_antigua_johnny_grave_is_in_charge_of_west_indies_cricket_trying_to_lead_a_renaissance_and_beating_joe_roots_men_did_no_harm.html";
+	    String expected_url = "https://www.scifinow.co.uk/interviews/scary-stories-to-tell-in-the-dark-director-andre-ovredal-on-horror-anticipation-and-smuggling-illegal-vhs-tapes/";
 	    Assert.assertEquals(actual_url, expected_url);
 	    System.out.println("5 of 6");
 	}
