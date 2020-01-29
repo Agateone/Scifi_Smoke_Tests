@@ -5,7 +5,7 @@
    <parameter name="browser" value="chrome" />
     <classes>
   
-   	<class name="Stepdef.Popbitch.POPSMO01_Popbitch_register_from_first_use_notice"/>
+   	<class name="Stepdef.Scifinowlive.SCISMO01_Scifi_register_from_first_use_notice"/>
   
    
    	
