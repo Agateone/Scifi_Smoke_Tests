@@ -24,9 +24,9 @@
           <configuration>
           <skipTests>false</skipTests>
                 <testFailureIgnore>true</testFailureIgnore>
-                <forkCount>0</forkCount>
+                <forkCount>0</forkCount>	
           <suiteXmlFiles>
-          <suiteXmlFile>Recent_Test.xml</suiteXmlFile>
+          <suiteXmlFile>Popbitch_Smoke_Tests_Live_Chrome_1.xml</suiteXmlFile>
       
           </suiteXmlFiles>
           </configuration>

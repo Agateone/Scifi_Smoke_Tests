@@ -4,7 +4,7 @@
   <test  name="Signup_from_FUN" >
    <parameter name="browser" value="chrome" />
     <classes> 
- <class name="Stepdef.Popbitch.POPSMO31_Login_From_Wallet"/>   	 
+ <class name="Stepdef.Scifinowlive.SCISMO02_Scifi_register_from_wallet"/>   	 
     </classes>
   </test> 
   </suite>		

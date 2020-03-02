@@ -6,6 +6,7 @@
     <classes>
   
    	<class name="Stepdef.Scifinowlive.SCISMO01_Scifi_register_from_first_use_notice"/>
+   	 <class name="Stepdef.Scifinowlive.SCISMO02_Scifi_register_from_wallet"/>  
   
    
    	
